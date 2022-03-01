@@ -1,7 +1,7 @@
 # active-debris-removal
+So, space debris can be modeled as a complex TSP problem.
 
 Problem: https://www.esa.int/Safety_Security/Space_Debris/Active_debris_removal
-So, space debris can be modeled as a complex TSP problem.
 
 Solution:
 - Inver-over genetic algorithm
