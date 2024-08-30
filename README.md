@@ -8,3 +8,5 @@ Solution:
 - Interpolated tree search
 - Ranged and Stochastic 2-opt (kopt)
 - Maximal open walk
+
+![image info](./architecture_adr.png)
